@@ -1,6 +1,6 @@
 # My Project
 
-<img src=".images/profile.png" alt="Project" width="100%">
+<img src="./images/profile.png" alt="Project" width="100%">
 
 Welcome to **My Project**!
 
